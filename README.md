@@ -1,3 +1,3 @@
 # MLGHud
 
-[banner](images/img1.jpeg)
+[image](images/img1.jpeg)
