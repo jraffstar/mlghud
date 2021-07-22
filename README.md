@@ -6,6 +6,6 @@ The hud will be based around a MLG Theme so there will be stuff like weed and et
 
 <h1> How to use
  
-You cant yet (will be able to use later)
+<h3> You cant yet (will be able to use later)
   
   <h2> Feel free to help me and create pull requests
