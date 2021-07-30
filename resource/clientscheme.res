@@ -5720,12 +5720,12 @@ Scheme
 	// For TF2: Any special character will need to be added to our font file
 	CustomFontFiles
 	{
-		"1" "resource/tf.ttf"
+		"1" "resource/fonts/ComicSans.ttf"
 		"2" "resource/tfd.ttf"
 		"3"
 		{
-			"font" "resource/TF2.ttf"
-			"name" "TF2"
+			"font" "resource/fonts/ComicSans.ttf"
+			"name" "Comic Sans MS"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -5737,8 +5737,8 @@ Scheme
 		}
 		"4" 
 		{
-			"font" "resource/TF2Secondary.ttf"
-			"name" "TF2 Secondary"
+			"font" "resource/fonts/ComicSans.ttf"
+			"name" "Comic Sans MS"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -5750,8 +5750,8 @@ Scheme
 		}
 		"5" 
 		{
-			"font" "resource/TF2Professor.ttf"
-			"name" "TF2 Professor"
+			"font" "resource/fonts/ComicSans.ttf"
+			"name" "Comic Sans MS"
 			"russian"
 			{
 				"range" "0x0000 0x00FF"
@@ -5763,8 +5763,8 @@ Scheme
 		}	
 		"6" 
 		{
-			"font" "resource/TF2Build.ttf"
-			"name" "TF2 Build"
+			"font" "resource/fonts/ComicSans.ttf"
+			"name" "Comic Sans MS"
 			"russian"
 			{
 				"range" "0x0000 0xFFFF"
@@ -5780,8 +5780,8 @@ Scheme
 		}			
 		"7"
 		{
-			"font"	"resource/ocra.ttf"
-			"name" "ocra"
+			"font"	"resource/fonts/ComicSans.ttf"
+			"name" "Comic Sans MS"
 			"turkish"
 			{
 				"range" "0x0000 0x007E"
@@ -5839,5 +5839,10 @@ Scheme
 				"range" "0x0000 0x007E"
 			}
 		}
-	}
+		"8" //Comic Sans Font
+		
+		
+		    "font" "resource/fonts/ComicSans.ttf"
+			"name" "Comic Sans MS"
+	    }
 }
