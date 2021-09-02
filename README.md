@@ -21,8 +21,7 @@ How to install
 ```
 tf
 └── custom
-    └── rayshud
-        ├── #customizations
+    └── mlghud
         ├── materials
         ├── resource
         ├── scripts
