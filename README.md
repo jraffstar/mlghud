@@ -14,7 +14,7 @@ The hud will be based around a MLG Theme so there will be stuff like weed and et
 How to install
 --------
 
- 1. [Click here][download-link] to download the latest version. This will download `mlghud-master.zip`
+ 1. [Click here][download-link] to download the latest version. This will download `mlghud-main.zip`
 2. Navigate to `C:\Program Files (x86)\Steam\SteamApps\common\Team Fortress 2\tf\custom`
 3. Extract .zip file contents into the `custom` folder.
 4. Ensure that the final file structure should resembles the following:
