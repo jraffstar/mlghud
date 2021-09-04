@@ -7,7 +7,7 @@ The hud will be based around a MLG Theme so there will be stuff like weed and et
 <br />
     <a href="https://github.com/jraffstar/mlghud/archive/refs/heads/main.zip">Download</a>
     ·
-    <a href="https://github.com/jraffstar/mlghud/issues">Issue</a>
+    <a href="https://github.com/jraffstar/mlghud/issues">Issues</a>
   </p>
 </p>
 
