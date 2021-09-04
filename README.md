@@ -41,5 +41,3 @@ tf
  <!-- LINKS -->
 [download-link]: https://github.com/jraffstar/mlghud/archive/refs/heads/main.zip
 [issues-link]: https://github.com/jraffstar/mlghud/issues/new
-    
-    a
